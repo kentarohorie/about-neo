@@ -6,6 +6,8 @@ Amazon Linux AMI release 2018.03
 
 sudo yum install -y git gcc-c++ openssl-devel
 
+```
+
 ### Install docker
 
 ```
